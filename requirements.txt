@@ -3,3 +3,4 @@ plotly
 scikit-learn
 umap-learn
 streamlit
+streamlit_plotly_events
